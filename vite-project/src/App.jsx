@@ -6,9 +6,10 @@ import Layout from './components/Layout'
 import Home from './components/Home'
 import Category from './components/Category'
 import CategoryLayout from './components/CategoryLayout'
+import { useState, useEffect } from 'react'
 
 function App() {
-  
+
 
   return (
 
